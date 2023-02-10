@@ -18,8 +18,8 @@ yarn dev index.js
 ```
 
 ## Client
-```npm run dev
-```npm run dev
+```bash
+npm run dev
 # or 
 yarn dev
-
+```
